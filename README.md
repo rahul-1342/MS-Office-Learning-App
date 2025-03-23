@@ -14,7 +14,7 @@ This is a **Flutter-based MS Office Learning App** that provides tutorials and q
 ---
 ## 🛠 Built With
 Flutter (Dart)
-Firestore
+Firebase
 
 ## 🏗 Project Setup Instructions  
 
