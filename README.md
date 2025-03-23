@@ -1,20 +1,32 @@
-<<<<<<< HEAD
-# MS-Office-Learning-App
-=======
-# msoffice
+# 📝 MS Office Learning App (Flutter) 📱
 
-A new Flutter project.
+## 🚀 Project Overview  
+This is a **Flutter-based MS Office Learning App** that provides tutorials and quizzes for learning **Microsoft Word, Excel, PowerPoint, and more**.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Features  
+✅ **Step-by-Step Guides** 📖  
+✅ **Quizzes & Assessments** ✅  
+✅ **Bookmark Lessons** 🔖  
+✅ **User Authentication (Firebase)** 🔐  
 
-A few resources to get you started if this is your first Flutter project:
+---
+## 🛠 Built With
+Flutter (Dart)
+Firebase Authentication & Firestore
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🏗 Project Setup Instructions  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> d91952b (first commit)
+### 1️⃣ Prerequisites  
+- Install **[Flutter](https://flutter.dev/docs/get-started/install)**  
+- Install **[Android Studio](https://developer.android.com/studio) OR VS Code**  
+- Install **Dart SDK** (included with Flutter)  
+- Enable **USB Debugging** (for testing on a real device)  
+
+### 2️⃣ Clone the Repository  
+```bash
+git clone https://github.com/your-username/ms-office-learning-app.git
+cd ms-office-learning-app
+
+
