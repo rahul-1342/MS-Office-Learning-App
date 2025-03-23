@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794029823294",
+    "project_id": "msoffice-21954",
+    "storage_bucket": "msoffice-21954.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794029823294:android:94810a85ed13db9325886f",
+        "android_client_info": {
+          "package_name": "com.example.msoffice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794029823294-m532lgf6pc6sieju0fjlt0frktlifaq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC802PHSqhbOqGKVL4t9HsaIyd9AH7aYQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794029823294-m532lgf6pc6sieju0fjlt0frktlifaq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
